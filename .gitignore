@@ -31,3 +31,6 @@
 # Xcode
 build/
 xcuserdata/
+
+# Python
+*.pyc
